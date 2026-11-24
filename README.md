@@ -24,6 +24,6 @@ Nothing is sent anywhere: the AI, voice and speech recognition all run on your P
 
 ## Found a bug?
 
-Use the [bug report form](https://docs.google.com/forms/d/e/1FAIpQLScRi6wIUh8Z2tA0rjOTqGkoOzKBNLqWuTwX8HVdusWSCs0Evw/viewform) - it's anonymous.
+Open a [new issue](https://github.com/brrrrrrr-max/NeuralCompanion/issues/new/choose): say what went wrong and how to make it happen again, and drag in your bug report file (in game: **Settings > Brain and voice > Bug report > Make a bug report file** - it goes on your Desktop, your Windows name taken out). Issues are public, so don't put anything personal in them.
 
 The installer script and this page: MIT licence.
