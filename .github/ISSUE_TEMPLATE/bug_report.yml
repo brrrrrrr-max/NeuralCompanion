@@ -1,0 +1,38 @@
+name: Bug report
+description: Something in Neural Companion went wrong
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting! **Issues are public** - don't put your name, email or anything personal in here.
+  - type: textarea
+    id: what
+    attributes:
+      label: What went wrong?
+      placeholder: e.g. It stopped following me after I got in a car.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How do I make it happen again?
+      description: Step by step, as exactly as you can - this is what lets the bug get fixed.
+      placeholder: |
+        1. Spawned the bot in Blankbox
+        2. Said "follow me"
+        3. Got in the go-kart and drove off
+        4. It stood still
+    validations:
+      required: true
+  - type: textarea
+    id: file
+    attributes:
+      label: Bug report file
+      description: In game - Neural Companion > Settings > Brain and voice > Bug report > **Make a bug report file**. It goes on your Desktop (your Windows name taken out). Drag it in here.
+      placeholder: Drag "Neural Companion bug report ....zip" here
+  - type: input
+    id: setup
+    attributes:
+      label: Your graphics card and performance mode (optional)
+      placeholder: e.g. RTX 3070, Medium
