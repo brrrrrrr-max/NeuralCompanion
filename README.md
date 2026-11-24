@@ -4,7 +4,7 @@
 
 ## Install the runtime (once)
 
-1. Download **`Install Neural Companion runtime.cmd`** from the [latest release](https://github.com/brrrrrrr-max/NeuralCompanion/releases/latest).
+1. Download **`Install.Neural.Companion.runtime.cmd`** from the [latest release](https://github.com/brrrrrrr-max/NeuralCompanion/releases/latest).
 2. Double-click it. (Windows may say it protected your PC - click **More info > Run anyway**.)
 3. It downloads the runtime from this page (about 6 GB - it carries on where it stopped if your internet drops), checks it isn't damaged (SHA-256), and installs it in `%LOCALAPPDATA%\NeuralCompanion\Runtime`. It needs about 16 GB free while it installs, 8 GB after.
 4. Install **NeuralCompanion** on Thunderstore with your mod manager, start BONELAB, then BoneMenu > **Neural Companion > Spawn the bot**, then **Start the brain**.
